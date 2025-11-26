@@ -44,7 +44,8 @@ class amazon_DBAdmin(admin.ModelAdmin):
 ~~~
 
 ## OUTPUT
+<img width="1903" height="747" alt="Screenshot 2025-11-24 142700" src="https://github.com/user-attachments/assets/0887c942-a129-49bd-b6bf-b6ef9bc9473f" />
 
-![alt text](<../Screenshot 2025-11-24 142700.png>)
+
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
